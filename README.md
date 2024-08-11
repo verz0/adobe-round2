@@ -11,3 +11,7 @@ The code is documented inside the ipynb file in markdown and comments to help yo
 The ipynb file must be run in a supported environment (kaggle or google colab) or hardware to view the outputs and results
 
 Cloud based environments like kaggle are recommended to run the ipynb file over running it locally in your system
+
+original kaggle notebook : https://www.kaggle.com/code/pirajeshmr/adobe-gensolve/edit
+
+### Important: The appropriate files must be inputted accordingly in the cells as required. The code works for isolated,fragmented and closed types as required in the problem statement
